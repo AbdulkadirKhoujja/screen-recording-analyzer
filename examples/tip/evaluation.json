@@ -1,0 +1,43 @@
+{
+  "schema": "synthetic-evaluation.v1",
+  "app": "tip",
+  "n_events": 4,
+  "timestamp_tolerance_ms": 1000,
+  "event_recall": 1.0,
+  "timestamp_detection_checks": [
+    {
+      "event": "bill entry",
+      "expected_ms": 0,
+      "found": true,
+      "detected_ms": 0
+    },
+    {
+      "event": "tip selected",
+      "expected_ms": 2000,
+      "found": true,
+      "detected_ms": 2000
+    },
+    {
+      "event": "loading uncertain",
+      "expected_ms": 4000,
+      "found": true,
+      "detected_ms": 4000
+    },
+    {
+      "event": "total result",
+      "expected_ms": 6000,
+      "found": true,
+      "detected_ms": 6000
+    }
+  ],
+  "uncertainty_flag_correct": true,
+  "pending_state_mentioned_in_workflow": true,
+  "uncertainty_reporting_gate": "PASS",
+  "observed_findings_with_frame_citation": true,
+  "caveats": [
+    "Synthetic controlled recording only",
+    "Metric is OCR-stage marker detection, NOT semantic workflow precision or multimodal video understanding accuracy",
+    "Screen transitions are not equivalent to action detection",
+    "Uncertainty reporting gate checks structure and references, not the full visual truth of any model claim"
+  ]
+}

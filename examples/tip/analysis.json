@@ -1,0 +1,130 @@
+{
+  "app_summary": "Offline OCR evidence preview only; app purpose and interactions are not independently established.",
+  "workflow_steps": [
+    {
+      "order": 1,
+      "action": "Screen text changed to: TIPMATE / TIP ESTIMATOR STAGE 1 / BILL ENTRY Tip Calculator Split every bill clearly Bill amount No calculation yet Enter a bill amount",
+      "start_ms": 0,
+      "end_ms": 2000,
+      "evidence_frames": [
+        0
+      ]
+    },
+    {
+      "order": 2,
+      "action": "Screen text changed to: TIPMATE / TIP ESTIMATOR STAGE 2 / TIP SELECTED Tip Calculator Split every bill clearly 100 20 percent tip selected Ready to calculate",
+      "start_ms": 2000,
+      "end_ms": 4000,
+      "evidence_frames": [
+        4
+      ]
+    },
+    {
+      "order": 3,
+      "action": "Screen text changed to: TIPMATE / TIP ESTIMATOR STAGE 3 / LOADING Tip Calculator Split every bill clearly 100 Processing... result pending Please wait for result",
+      "start_ms": 4000,
+      "end_ms": 6000,
+      "evidence_frames": [
+        8
+      ]
+    },
+    {
+      "order": 4,
+      "action": "Screen text changed to: TIPMATE / TIP ESTIMATOR STAGE 4 / TOTAL RESULT Tip Calculator Split every bill clearly 100 TOTAL: $120.00 Calculation complete",
+      "start_ms": 6000,
+      "end_ms": 7500,
+      "evidence_frames": [
+        12
+      ]
+    }
+  ],
+  "segments": [
+    {
+      "title": "OCR state 1",
+      "start_ms": 0,
+      "end_ms": 2000,
+      "evidence_frames": [
+        0
+      ]
+    },
+    {
+      "title": "OCR state 2",
+      "start_ms": 2000,
+      "end_ms": 4000,
+      "evidence_frames": [
+        4
+      ]
+    },
+    {
+      "title": "OCR state 3",
+      "start_ms": 4000,
+      "end_ms": 6000,
+      "evidence_frames": [
+        8
+      ]
+    },
+    {
+      "title": "OCR state 4",
+      "start_ms": 6000,
+      "end_ms": 7500,
+      "evidence_frames": [
+        12
+      ]
+    }
+  ],
+  "marketing_moments": [
+    {
+      "hook": "Potential visual highlight: TIPMATE / TIP ESTIMATOR STAGE 2 / TIP SELECTED Tip Calculator Split every bill clearly 100",
+      "timestamp_ms": 2000,
+      "evidence_frames": [
+        4
+      ],
+      "rationale_kind": "inferred"
+    },
+    {
+      "hook": "Potential visual highlight: TIPMATE / TIP ESTIMATOR STAGE 4 / TOTAL RESULT Tip Calculator Split every bill clearly 100",
+      "timestamp_ms": 6000,
+      "evidence_frames": [
+        12
+      ],
+      "rationale_kind": "inferred"
+    }
+  ],
+  "findings": [
+    {
+      "kind": "observed",
+      "text": "Visible OCR text: TIPMATE / TIP ESTIMATOR STAGE 1 / BILL ENTRY Tip Calculator Split every bill clearly Bill amount No calculation yet Enter a bill amount",
+      "evidence_frames": [
+        0
+      ]
+    },
+    {
+      "kind": "observed",
+      "text": "Visible OCR text: TIPMATE / TIP ESTIMATOR STAGE 2 / TIP SELECTED Tip Calculator Split every bill clearly 100 20 percent tip selected Ready to calculate",
+      "evidence_frames": [
+        4
+      ]
+    },
+    {
+      "kind": "observed",
+      "text": "Visible OCR text: TIPMATE / TIP ESTIMATOR STAGE 3 / LOADING Tip Calculator Split every bill clearly 100 Processing... result pending Please wait for result",
+      "evidence_frames": [
+        8
+      ]
+    },
+    {
+      "kind": "uncertain",
+      "text": "An on-screen pending/processing message is visible; completion cannot be inferred from this frame.",
+      "evidence_frames": [
+        8
+      ]
+    },
+    {
+      "kind": "observed",
+      "text": "Visible OCR text: TIPMATE / TIP ESTIMATOR STAGE 4 / TOTAL RESULT Tip Calculator Split every bill clearly 100 TOTAL: $120.00 Calculation complete",
+      "evidence_frames": [
+        12
+      ]
+    }
+  ]
+}

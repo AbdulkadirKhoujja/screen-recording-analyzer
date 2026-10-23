@@ -1,0 +1,29 @@
+{
+  "schema": "screen-recording-analyzer.run.v2",
+  "provider": "offline-ocr",
+  "requested_provider": "offline-ocr",
+  "fallback_used": false,
+  "fallback_reason": null,
+  "model": null,
+  "video_filename": "todo_synthetic.mp4",
+  "video_sha256": "7eb493caec0498f06eacd7a6f71f78765d4df17e8aa92d688f5e4a4810d95372",
+  "video_metadata": {
+    "duration_ms": 8000,
+    "width": 390,
+    "height": 844,
+    "avg_frame_rate": "2/1"
+  },
+  "frames_selected": 16,
+  "ocr_executed": true,
+  "live_model_executed": false,
+  "model_call_attempted": false,
+  "input_tokens": null,
+  "output_tokens": null,
+  "total_tokens": null,
+  "estimated_api_cost_usd": null,
+  "rate_assumptions_per_million_tokens": null,
+  "cost_note": "No billing estimate: no actual model usage and/or no verified caller-supplied rates. A failed network attempt might still incur charges.",
+  "elapsed_seconds": 2.674,
+  "observed_at_utc": "2026-10-22T22:19:04.086791+00:00",
+  "privacy_note": "Offline OCR processes local files. Gemini uploads selected frames only with explicit opt-in."
+}

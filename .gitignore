@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+*.key
+*.pem
+*.log
+outputs/
+video_frames/
+.DS_Store
+
+# Locally collected live result review; do not publish automatically
+release-review/
+
+.env.*
+*.p12
+*.pfx
+*.credentials

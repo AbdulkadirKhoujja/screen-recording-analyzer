@@ -1,0 +1,43 @@
+{
+  "schema": "synthetic-evaluation.v1",
+  "app": "todo",
+  "n_events": 4,
+  "timestamp_tolerance_ms": 1000,
+  "event_recall": 1.0,
+  "timestamp_detection_checks": [
+    {
+      "event": "task list",
+      "expected_ms": 0,
+      "found": true,
+      "detected_ms": 0
+    },
+    {
+      "event": "task added",
+      "expected_ms": 2000,
+      "found": true,
+      "detected_ms": 2000
+    },
+    {
+      "event": "task complete",
+      "expected_ms": 4000,
+      "found": true,
+      "detected_ms": 4000
+    },
+    {
+      "event": "completed filter",
+      "expected_ms": 6000,
+      "found": true,
+      "detected_ms": 6000
+    }
+  ],
+  "uncertainty_flag_correct": null,
+  "pending_state_mentioned_in_workflow": null,
+  "uncertainty_reporting_gate": "NOT_APPLICABLE",
+  "observed_findings_with_frame_citation": true,
+  "caveats": [
+    "Synthetic controlled recording only",
+    "Metric is OCR-stage marker detection, NOT semantic workflow precision or multimodal video understanding accuracy",
+    "Screen transitions are not equivalent to action detection",
+    "Uncertainty reporting gate checks structure and references, not the full visual truth of any model claim"
+  ]
+}

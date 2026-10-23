@@ -1,0 +1,32 @@
+{
+  "schema": "synthetic-mobile-demo.ground-truth.v1",
+  "app": "tip",
+  "video": "tip_synthetic.mp4",
+  "recording_method": "Real local browser screenshots -> ffmpeg fixed 2 fps video",
+  "fps": 2,
+  "synthetic_only": true,
+  "events": [
+    {
+      "at_ms": 0,
+      "label": "bill entry",
+      "visible_marker": "STAGE 1"
+    },
+    {
+      "at_ms": 2000,
+      "label": "tip selected",
+      "visible_marker": "STAGE 2"
+    },
+    {
+      "at_ms": 4000,
+      "label": "loading uncertain",
+      "visible_marker": "STAGE 3"
+    },
+    {
+      "at_ms": 6000,
+      "label": "total result",
+      "visible_marker": "STAGE 4"
+    }
+  ],
+  "uncertainty_expected_at_ms": 4000,
+  "narrative": "The tip demo intentionally displays a pending state before a later verified result"
+}

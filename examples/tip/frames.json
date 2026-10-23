@@ -1,0 +1,123 @@
+{
+  "video": "tip_synthetic.mp4",
+  "metadata": {
+    "duration_ms": 8000,
+    "width": 390,
+    "height": 844,
+    "avg_frame_rate": "2/1"
+  },
+  "frames": [
+    {
+      "id": 0,
+      "timestamp_ms": 0,
+      "path": "frames/f0000_0000000ms.jpg",
+      "sha256": "3f6a291846d7d11fbff1279a75212a3236e9e75ecab9b29b54c6b88535ce25a2",
+      "scene_transition": false
+    },
+    {
+      "id": 1,
+      "timestamp_ms": 500,
+      "path": "frames/f0001_0000500ms.jpg",
+      "sha256": "95a0caa8897635498e527692d6ebf8c2bdf0bccf3e66db57467b605bd7c5aa0b",
+      "scene_transition": false
+    },
+    {
+      "id": 2,
+      "timestamp_ms": 1000,
+      "path": "frames/f0002_0001000ms.jpg",
+      "sha256": "15912e31791bf722c386cef787b8281abace4d3455a83a19052511d9779bcfe9",
+      "scene_transition": false
+    },
+    {
+      "id": 3,
+      "timestamp_ms": 1500,
+      "path": "frames/f0003_0001500ms.jpg",
+      "sha256": "44311addfb2f6f586d5e2a86e05870a93798d347a799017d4f3f7e6d4d6eb7b7",
+      "scene_transition": false
+    },
+    {
+      "id": 4,
+      "timestamp_ms": 2000,
+      "path": "frames/f0004_0002000ms.jpg",
+      "sha256": "59b0c1fe9fdcf0032ed0c8bff8e84d27ab678aa223f818b48a6837d045af7535",
+      "scene_transition": false
+    },
+    {
+      "id": 5,
+      "timestamp_ms": 2500,
+      "path": "frames/f0005_0002500ms.jpg",
+      "sha256": "5ee396ff5934710e99161dfe748f0021e7c20705723c2b1c0f9c5822d048cd31",
+      "scene_transition": false
+    },
+    {
+      "id": 6,
+      "timestamp_ms": 3000,
+      "path": "frames/f0006_0003000ms.jpg",
+      "sha256": "01bf20378bc2dcbabeddcc8ec184e0f7624f29e2830d10f35ae71f5c37c84ca3",
+      "scene_transition": false
+    },
+    {
+      "id": 7,
+      "timestamp_ms": 3500,
+      "path": "frames/f0007_0003500ms.jpg",
+      "sha256": "080da1899be04bdccf13636ed3b60d9a6077d4d84b5dd047663ee0f63716cf59",
+      "scene_transition": false
+    },
+    {
+      "id": 8,
+      "timestamp_ms": 4000,
+      "path": "frames/f0008_0004000ms.jpg",
+      "sha256": "47dca2758d150fead6d199ef3961458d32a8bf9ad1099424c887a46ee09c58be",
+      "scene_transition": false
+    },
+    {
+      "id": 9,
+      "timestamp_ms": 4500,
+      "path": "frames/f0009_0004500ms.jpg",
+      "sha256": "97ab1af4623fc961a433701e81d3130e8377bf52222dffd6242d3154b908e149",
+      "scene_transition": false
+    },
+    {
+      "id": 10,
+      "timestamp_ms": 5000,
+      "path": "frames/f0010_0005000ms.jpg",
+      "sha256": "2e22b75116423865ee96c54ee95e8fbea892b5d26ffecc66eb85f8bc4304115d",
+      "scene_transition": false
+    },
+    {
+      "id": 11,
+      "timestamp_ms": 5500,
+      "path": "frames/f0011_0005500ms.jpg",
+      "sha256": "11f6d5707028df101519c23a2f7bcf837cd288e1a38d2dddb03b02b2b91e6786",
+      "scene_transition": false
+    },
+    {
+      "id": 12,
+      "timestamp_ms": 6000,
+      "path": "frames/f0012_0006000ms.jpg",
+      "sha256": "c8f4ea4eae6147767455fa546708c8e05fd76222819f2f13e009ec88f746b3da",
+      "scene_transition": false
+    },
+    {
+      "id": 13,
+      "timestamp_ms": 6500,
+      "path": "frames/f0013_0006500ms.jpg",
+      "sha256": "cf2b27ccee4ce2ba14dcedb845190514eccf0573876328ab28c856168ae7fe18",
+      "scene_transition": false
+    },
+    {
+      "id": 14,
+      "timestamp_ms": 7000,
+      "path": "frames/f0014_0007000ms.jpg",
+      "sha256": "9e21de464c99d2500a4f32c1f9cf5d7953ca7ce8505da702cf393b73b3e360b9",
+      "scene_transition": false
+    },
+    {
+      "id": 15,
+      "timestamp_ms": 7500,
+      "path": "frames/f0015_0007500ms.jpg",
+      "sha256": "321cb25dbb23a15a0722b53132c5d65b9eacafaca75929645d02f9862b2622bd",
+      "scene_transition": false
+    }
+  ]
+}

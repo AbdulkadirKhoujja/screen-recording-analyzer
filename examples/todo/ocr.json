@@ -1,0 +1,1602 @@
+[
+  {
+    "frame_id": 0,
+    "timestamp_ms": 0,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "1",
+        "confidence": 78.0
+      },
+      {
+        "text": "/",
+        "confidence": 78.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 96.0
+      },
+      {
+        "text": "LIST",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "New",
+        "confidence": 96.0
+      },
+      {
+        "text": "task",
+        "confidence": 96.0
+      },
+      {
+        "text": "No",
+        "confidence": 96.0
+      },
+      {
+        "text": "tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "yet",
+        "confidence": 96.0
+      },
+      {
+        "text": "Plan",
+        "confidence": 96.0
+      },
+      {
+        "text": "the",
+        "confidence": 96.0
+      },
+      {
+        "text": "day",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 1 / TASK LIST Daily Tasks Make today feel manageable New task No tasks yet Plan the day"
+  },
+  {
+    "frame_id": 1,
+    "timestamp_ms": 500,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "1",
+        "confidence": 72.0
+      },
+      {
+        "text": "/",
+        "confidence": 72.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 96.0
+      },
+      {
+        "text": "LIST",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "New",
+        "confidence": 96.0
+      },
+      {
+        "text": "task",
+        "confidence": 96.0
+      },
+      {
+        "text": "No",
+        "confidence": 96.0
+      },
+      {
+        "text": "tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "yet",
+        "confidence": 96.0
+      },
+      {
+        "text": "Plan",
+        "confidence": 96.0
+      },
+      {
+        "text": "the",
+        "confidence": 96.0
+      },
+      {
+        "text": "day",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 1 / TASK LIST Daily Tasks Make today feel manageable New task No tasks yet Plan the day"
+  },
+  {
+    "frame_id": 2,
+    "timestamp_ms": 1000,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "1",
+        "confidence": 75.0
+      },
+      {
+        "text": "/",
+        "confidence": 75.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 96.0
+      },
+      {
+        "text": "LIST",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "New",
+        "confidence": 96.0
+      },
+      {
+        "text": "task",
+        "confidence": 96.0
+      },
+      {
+        "text": "No",
+        "confidence": 96.0
+      },
+      {
+        "text": "tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "yet",
+        "confidence": 96.0
+      },
+      {
+        "text": "Plan",
+        "confidence": 96.0
+      },
+      {
+        "text": "the",
+        "confidence": 96.0
+      },
+      {
+        "text": "day",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 1 / TASK LIST Daily Tasks Make today feel manageable New task No tasks yet Plan the day"
+  },
+  {
+    "frame_id": 3,
+    "timestamp_ms": 1500,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 95.0
+      },
+      {
+        "text": "1",
+        "confidence": 75.0
+      },
+      {
+        "text": "/",
+        "confidence": 75.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 95.0
+      },
+      {
+        "text": "LIST",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "New",
+        "confidence": 96.0
+      },
+      {
+        "text": "task",
+        "confidence": 96.0
+      },
+      {
+        "text": "No",
+        "confidence": 96.0
+      },
+      {
+        "text": "tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "yet",
+        "confidence": 96.0
+      },
+      {
+        "text": "Plan",
+        "confidence": 96.0
+      },
+      {
+        "text": "the",
+        "confidence": 96.0
+      },
+      {
+        "text": "day",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 1 / TASK LIST Daily Tasks Make today feel manageable New task No tasks yet Plan the day"
+  },
+  {
+    "frame_id": 4,
+    "timestamp_ms": 2000,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "2",
+        "confidence": 78.0
+      },
+      {
+        "text": "/",
+        "confidence": 78.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 96.0
+      },
+      {
+        "text": "ADDED.",
+        "confidence": 86.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "active",
+        "confidence": 96.0
+      },
+      {
+        "text": "Task",
+        "confidence": 96.0
+      },
+      {
+        "text": "added",
+        "confidence": 96.0
+      },
+      {
+        "text": "successfully",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 2 / TASK ADDED. Daily Tasks Make today feel manageable Buy milk Buy milk / active Task added successfully"
+  },
+  {
+    "frame_id": 5,
+    "timestamp_ms": 2500,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "2",
+        "confidence": 85.0
+      },
+      {
+        "text": "/",
+        "confidence": 85.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 96.0
+      },
+      {
+        "text": "ADDED.",
+        "confidence": 78.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 93.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "active",
+        "confidence": 96.0
+      },
+      {
+        "text": "Task",
+        "confidence": 96.0
+      },
+      {
+        "text": "added",
+        "confidence": 96.0
+      },
+      {
+        "text": "successfully",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 2 / TASK ADDED. Daily Tasks Make today feel manageable Buy milk Buy milk / active Task added successfully"
+  },
+  {
+    "frame_id": 6,
+    "timestamp_ms": 3000,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "2",
+        "confidence": 83.0
+      },
+      {
+        "text": "/",
+        "confidence": 83.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 95.0
+      },
+      {
+        "text": "ADDED",
+        "confidence": 73.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 93.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "active",
+        "confidence": 97.0
+      },
+      {
+        "text": "Task",
+        "confidence": 96.0
+      },
+      {
+        "text": "added",
+        "confidence": 96.0
+      },
+      {
+        "text": "successfully",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 2 / TASK ADDED Daily Tasks Make today feel manageable Buy milk Buy milk / active Task added successfully"
+  },
+  {
+    "frame_id": 7,
+    "timestamp_ms": 3500,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "2",
+        "confidence": 85.0
+      },
+      {
+        "text": "/",
+        "confidence": 85.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 96.0
+      },
+      {
+        "text": "ADDED.",
+        "confidence": 71.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 93.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "active",
+        "confidence": 97.0
+      },
+      {
+        "text": "Task",
+        "confidence": 96.0
+      },
+      {
+        "text": "added",
+        "confidence": 96.0
+      },
+      {
+        "text": "successfully",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 2 / TASK ADDED. Daily Tasks Make today feel manageable Buy milk Buy milk / active Task added successfully"
+  },
+  {
+    "frame_id": 8,
+    "timestamp_ms": 4000,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "3",
+        "confidence": 88.0
+      },
+      {
+        "text": "/",
+        "confidence": 88.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 95.0
+      },
+      {
+        "text": "COMPLETE",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 93.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "successfully",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 3 / TASK COMPLETE Daily Tasks Make today feel manageable Buy milk Buy milk / completed Completed successfully"
+  },
+  {
+    "frame_id": 9,
+    "timestamp_ms": 4500,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "3",
+        "confidence": 88.0
+      },
+      {
+        "text": "/",
+        "confidence": 88.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 95.0
+      },
+      {
+        "text": "COMPLETE",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "successfully",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 3 / TASK COMPLETE Daily Tasks Make today feel manageable Buy milk Buy milk / completed Completed successfully"
+  },
+  {
+    "frame_id": 10,
+    "timestamp_ms": 5000,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "3",
+        "confidence": 88.0
+      },
+      {
+        "text": "/",
+        "confidence": 88.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 95.0
+      },
+      {
+        "text": "COMPLETE",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 97.0
+      },
+      {
+        "text": "milk",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "successfully",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 3 / TASK COMPLETE Daily Tasks Make today feel manageable Buy milk Buy milk / completed Completed successfully"
+  },
+  {
+    "frame_id": 11,
+    "timestamp_ms": 5500,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "3",
+        "confidence": 88.0
+      },
+      {
+        "text": "/",
+        "confidence": 88.0
+      },
+      {
+        "text": "TASK",
+        "confidence": 95.0
+      },
+      {
+        "text": "COMPLETE",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 97.0
+      },
+      {
+        "text": "milk",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "successfully",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 3 / TASK COMPLETE Daily Tasks Make today feel manageable Buy milk Buy milk / completed Completed successfully"
+  },
+  {
+    "frame_id": 12,
+    "timestamp_ms": 6000,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "4",
+        "confidence": 83.0
+      },
+      {
+        "text": "/",
+        "confidence": 83.0
+      },
+      {
+        "text": "COMPLETED",
+        "confidence": 96.0
+      },
+      {
+        "text": "FILTER",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed:",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "filter",
+        "confidence": 95.0
+      },
+      {
+        "text": "active",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 4 / COMPLETED FILTER Daily Tasks Make today feel manageable Buy milk Completed: Buy milk Completed filter active"
+  },
+  {
+    "frame_id": 13,
+    "timestamp_ms": 6500,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "4",
+        "confidence": 82.0
+      },
+      {
+        "text": "/",
+        "confidence": 82.0
+      },
+      {
+        "text": "COMPLETED",
+        "confidence": 96.0
+      },
+      {
+        "text": "FILTER",
+        "confidence": 95.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed:",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "filter",
+        "confidence": 95.0
+      },
+      {
+        "text": "active",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 4 / COMPLETED FILTER Daily Tasks Make today feel manageable Buy milk Completed: Buy milk Completed filter active"
+  },
+  {
+    "frame_id": 14,
+    "timestamp_ms": 7000,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 95.0
+      },
+      {
+        "text": "4",
+        "confidence": 82.0
+      },
+      {
+        "text": "/",
+        "confidence": 82.0
+      },
+      {
+        "text": "COMPLETED",
+        "confidence": 96.0
+      },
+      {
+        "text": "FILTER",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed:",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "filter",
+        "confidence": 95.0
+      },
+      {
+        "text": "active",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 4 / COMPLETED FILTER Daily Tasks Make today feel manageable Buy milk Completed: Buy milk Completed filter active"
+  },
+  {
+    "frame_id": 15,
+    "timestamp_ms": 7500,
+    "tokens": [
+      {
+        "text": "DAYMARK",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "MOBILE",
+        "confidence": 95.0
+      },
+      {
+        "text": "TASKS",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 95.0
+      },
+      {
+        "text": "4",
+        "confidence": 83.0
+      },
+      {
+        "text": "/",
+        "confidence": 83.0
+      },
+      {
+        "text": "COMPLETED",
+        "confidence": 96.0
+      },
+      {
+        "text": "FILTER",
+        "confidence": 96.0
+      },
+      {
+        "text": "Daily",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tasks",
+        "confidence": 96.0
+      },
+      {
+        "text": "Make",
+        "confidence": 96.0
+      },
+      {
+        "text": "today",
+        "confidence": 96.0
+      },
+      {
+        "text": "feel",
+        "confidence": 96.0
+      },
+      {
+        "text": "manageable",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed:",
+        "confidence": 96.0
+      },
+      {
+        "text": "Buy",
+        "confidence": 96.0
+      },
+      {
+        "text": "milk",
+        "confidence": 96.0
+      },
+      {
+        "text": "Completed",
+        "confidence": 96.0
+      },
+      {
+        "text": "filter",
+        "confidence": 95.0
+      },
+      {
+        "text": "active",
+        "confidence": 96.0
+      }
+    ],
+    "text": "DAYMARK / MOBILE TASKS STAGE 4 / COMPLETED FILTER Daily Tasks Make today feel manageable Buy milk Completed: Buy milk Completed filter active"
+  }
+]

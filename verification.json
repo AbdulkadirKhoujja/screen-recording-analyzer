@@ -1,0 +1,149 @@
+{
+  "schema": "screen-recording-analyzer.verification.v2",
+  "date": "2026-10-23",
+  "provenance": "Restored verified v0.2.2 package; eight additional offline claim-review and provenance tests. User-reported live Gemini outputs were not available as container files and were not independently rerun.",
+  "commands": {
+    "tests": "PYTHONPATH=src pytest -q",
+    "demo": "PYTHONPATH=src python demo/generate.py --out demo/assets",
+    "analyze": "PYTHONPATH=src python -m screen_analyzer.cli demo/assets/{todo|tip}_synthetic.mp4 --out examples/{todo|tip} --fps 2",
+    "evaluate": "python evaluate.py examples/{todo|tip} demo/assets/{todo|tip}_ground_truth.json",
+    "preflight": "PYTHONPATH=src python -m screen_analyzer.cli --preflight-only --provider offline-ocr"
+  },
+  "test_results_file": "test_results.txt",
+  "test_count": 46,
+  "test_passed": true,
+  "live_model_executed": "user-reported two synthetic recordings; not independently re-executed in release build",
+  "remote_model_calls_made": "User reports earlier failures and then two successful live Gemini executions; exact attempt count and provider billing not independently established.",
+  "client_footage": false,
+  "actual_api_cost_usd": null,
+  "synthetic_video_count": 2,
+  "evaluation_metrics": {
+    "todo": {
+      "schema": "synthetic-evaluation.v1",
+      "app": "todo",
+      "n_events": 4,
+      "timestamp_tolerance_ms": 1000,
+      "event_recall": 1.0,
+      "timestamp_detection_checks": [
+        {
+          "event": "task list",
+          "expected_ms": 0,
+          "found": true,
+          "detected_ms": 0
+        },
+        {
+          "event": "task added",
+          "expected_ms": 2000,
+          "found": true,
+          "detected_ms": 2000
+        },
+        {
+          "event": "task complete",
+          "expected_ms": 4000,
+          "found": true,
+          "detected_ms": 4000
+        },
+        {
+          "event": "completed filter",
+          "expected_ms": 6000,
+          "found": true,
+          "detected_ms": 6000
+        }
+      ],
+      "uncertainty_flag_correct": null,
+      "pending_state_mentioned_in_workflow": null,
+      "uncertainty_reporting_gate": "NOT_APPLICABLE",
+      "observed_findings_with_frame_citation": true,
+      "caveats": [
+        "Synthetic controlled recording only",
+        "Metric is OCR-stage marker detection, NOT semantic workflow precision or multimodal video understanding accuracy",
+        "Screen transitions are not equivalent to action detection",
+        "Uncertainty reporting gate checks structure and references, not the full visual truth of any model claim"
+      ]
+    },
+    "tip": {
+      "schema": "synthetic-evaluation.v1",
+      "app": "tip",
+      "n_events": 4,
+      "timestamp_tolerance_ms": 1000,
+      "event_recall": 1.0,
+      "timestamp_detection_checks": [
+        {
+          "event": "bill entry",
+          "expected_ms": 0,
+          "found": true,
+          "detected_ms": 0
+        },
+        {
+          "event": "tip selected",
+          "expected_ms": 2000,
+          "found": true,
+          "detected_ms": 2000
+        },
+        {
+          "event": "loading uncertain",
+          "expected_ms": 4000,
+          "found": true,
+          "detected_ms": 4000
+        },
+        {
+          "event": "total result",
+          "expected_ms": 6000,
+          "found": true,
+          "detected_ms": 6000
+        }
+      ],
+      "uncertainty_flag_correct": true,
+      "pending_state_mentioned_in_workflow": true,
+      "uncertainty_reporting_gate": "PASS",
+      "observed_findings_with_frame_citation": true,
+      "caveats": [
+        "Synthetic controlled recording only",
+        "Metric is OCR-stage marker detection, NOT semantic workflow precision or multimodal video understanding accuracy",
+        "Screen transitions are not equivalent to action detection",
+        "Uncertainty reporting gate checks structure and references, not the full visual truth of any model claim"
+      ]
+    }
+  },
+  "limitations": [
+    "8/8 OCR stage-marker score is not multimodal semantic accuracy; separate manual review indicated all scripted stages in model steps",
+    "Original TIP live output mentioned processing in its step but omitted explicit kind=uncertain finding; remains REVIEW_REQUIRED",
+    "No client recordings or sensitive footage processed in our environment",
+    "Public GitHub repository and proposal not published/submitted by this release",
+    "Billing details unknown; use operator-approved rates for estimates",
+    "Recent v0.2.2 prompt produced explicit kind=uncertain finding in user-pasted TipMate result; confirmation of current saved-file evaluator output is pending local collection",
+    "v0.2.3 claim-review flags are lexical prompts only; cannot automatically certify any generated marketing statement or workflow accuracy"
+  ],
+  "release_version": "0.2.3",
+  "baseline_tests_verified": 17,
+  "v02_features": [
+    "no-network provider preflight",
+    "dual-consent upload gate",
+    "opt-in OCR fallback with precise route disclosure",
+    "caller supplied usage-based cost estimates",
+    "mocked route and negative tests"
+  ],
+  "job_recheck": "Exact listing identified, but live Upwork content blocked automated reads; availability not confirmed.",
+  "user_reported_gemini_attempt": "Successful synthetic Gemini 3.5 Flash-Lite analysis reported for TODO and TIP app; structured model outputs supplied in chat; local machine results are not bundled.",
+  "cost_note": "Actual account billing is not independently verified after the reported request attempt.",
+  "v021_features": [
+    "Uses GenerateContentConfig.response_json_schema=Analysis.model_json_schema() instead of legacy response_schema",
+    "Preserves strict Pydantic post-response validation",
+    "Adds regression assertions and 2 direct schema tests",
+    "Local clean-package tests: 33 passed; live Gemini still unverified"
+  ],
+  "v022_features": [
+    "Explicit pending/processing uncertainty-finding prompt instruction",
+    "Separate uncertainty_reporting_gate from pending_state_mentioned_in_workflow",
+    "Frame ID lookup for semantic quality references",
+    "Default model switched to user-tested gemini-3.5-flash-lite",
+    "Five added offline regression tests; 38 local tests passed"
+  ],
+  "v023_features": [
+    "Explicit Gemini prompt caution on unverified marketing/performance claims",
+    "Non-destructive lexical review flags for possible overclaims",
+    "Offline live-model evidence collector requiring exact synthetic source hashes and no fallback",
+    "Local release evidence always requires human signoff",
+    "Eight additional network-free regression tests; 46 local tests passed"
+  ]
+}

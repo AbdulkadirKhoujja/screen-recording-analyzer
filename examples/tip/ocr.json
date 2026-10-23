@@ -1,0 +1,1538 @@
+[
+  {
+    "frame_id": 0,
+    "timestamp_ms": 0,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "1",
+        "confidence": 79.0
+      },
+      {
+        "text": "/",
+        "confidence": 79.0
+      },
+      {
+        "text": "BILL",
+        "confidence": 96.0
+      },
+      {
+        "text": "ENTRY",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "Bill",
+        "confidence": 95.0
+      },
+      {
+        "text": "amount",
+        "confidence": 95.0
+      },
+      {
+        "text": "No",
+        "confidence": 96.0
+      },
+      {
+        "text": "calculation",
+        "confidence": 96.0
+      },
+      {
+        "text": "yet",
+        "confidence": 96.0
+      },
+      {
+        "text": "Enter",
+        "confidence": 95.0
+      },
+      {
+        "text": "a",
+        "confidence": 95.0
+      },
+      {
+        "text": "bill",
+        "confidence": 96.0
+      },
+      {
+        "text": "amount",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 1 / BILL ENTRY Tip Calculator Split every bill clearly Bill amount No calculation yet Enter a bill amount"
+  },
+  {
+    "frame_id": 1,
+    "timestamp_ms": 500,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 95.0
+      },
+      {
+        "text": "1",
+        "confidence": 81.0
+      },
+      {
+        "text": "/",
+        "confidence": 81.0
+      },
+      {
+        "text": "BILL",
+        "confidence": 96.0
+      },
+      {
+        "text": "ENTRY",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 95.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 95.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "Bill",
+        "confidence": 95.0
+      },
+      {
+        "text": "amount",
+        "confidence": 95.0
+      },
+      {
+        "text": "No",
+        "confidence": 96.0
+      },
+      {
+        "text": "calculation",
+        "confidence": 96.0
+      },
+      {
+        "text": "yet",
+        "confidence": 96.0
+      },
+      {
+        "text": "Enter",
+        "confidence": 95.0
+      },
+      {
+        "text": "a",
+        "confidence": 95.0
+      },
+      {
+        "text": "bill",
+        "confidence": 96.0
+      },
+      {
+        "text": "amount",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 1 / BILL ENTRY Tip Calculator Split every bill clearly Bill amount No calculation yet Enter a bill amount"
+  },
+  {
+    "frame_id": 2,
+    "timestamp_ms": 1000,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "1",
+        "confidence": 83.0
+      },
+      {
+        "text": "/",
+        "confidence": 83.0
+      },
+      {
+        "text": "BILL",
+        "confidence": 96.0
+      },
+      {
+        "text": "ENTRY",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "Bill",
+        "confidence": 95.0
+      },
+      {
+        "text": "amount",
+        "confidence": 95.0
+      },
+      {
+        "text": "No",
+        "confidence": 96.0
+      },
+      {
+        "text": "calculation",
+        "confidence": 95.0
+      },
+      {
+        "text": "yet",
+        "confidence": 96.0
+      },
+      {
+        "text": "Enter",
+        "confidence": 95.0
+      },
+      {
+        "text": "a",
+        "confidence": 95.0
+      },
+      {
+        "text": "bill",
+        "confidence": 96.0
+      },
+      {
+        "text": "amount",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 1 / BILL ENTRY Tip Calculator Split every bill clearly Bill amount No calculation yet Enter a bill amount"
+  },
+  {
+    "frame_id": 3,
+    "timestamp_ms": 1500,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 95.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "1",
+        "confidence": 83.0
+      },
+      {
+        "text": "/",
+        "confidence": 83.0
+      },
+      {
+        "text": "BILL",
+        "confidence": 96.0
+      },
+      {
+        "text": "ENTRY",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "Bill",
+        "confidence": 95.0
+      },
+      {
+        "text": "amount",
+        "confidence": 95.0
+      },
+      {
+        "text": "No",
+        "confidence": 96.0
+      },
+      {
+        "text": "calculation",
+        "confidence": 95.0
+      },
+      {
+        "text": "yet",
+        "confidence": 96.0
+      },
+      {
+        "text": "Enter",
+        "confidence": 95.0
+      },
+      {
+        "text": "a",
+        "confidence": 95.0
+      },
+      {
+        "text": "bill",
+        "confidence": 96.0
+      },
+      {
+        "text": "amount",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 1 / BILL ENTRY Tip Calculator Split every bill clearly Bill amount No calculation yet Enter a bill amount"
+  },
+  {
+    "frame_id": 4,
+    "timestamp_ms": 2000,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "2",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "SELECTED",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "20",
+        "confidence": 96.0
+      },
+      {
+        "text": "percent",
+        "confidence": 96.0
+      },
+      {
+        "text": "tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "selected",
+        "confidence": 96.0
+      },
+      {
+        "text": "Ready",
+        "confidence": 96.0
+      },
+      {
+        "text": "to",
+        "confidence": 96.0
+      },
+      {
+        "text": "calculate",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 2 / TIP SELECTED Tip Calculator Split every bill clearly 100 20 percent tip selected Ready to calculate"
+  },
+  {
+    "frame_id": 5,
+    "timestamp_ms": 2500,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "2",
+        "confidence": 91.0
+      },
+      {
+        "text": "/",
+        "confidence": 91.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "SELECTED",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "20",
+        "confidence": 96.0
+      },
+      {
+        "text": "percent",
+        "confidence": 96.0
+      },
+      {
+        "text": "tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "selected",
+        "confidence": 95.0
+      },
+      {
+        "text": "Ready",
+        "confidence": 96.0
+      },
+      {
+        "text": "to",
+        "confidence": 96.0
+      },
+      {
+        "text": "calculate",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 2 / TIP SELECTED Tip Calculator Split every bill clearly 100 20 percent tip selected Ready to calculate"
+  },
+  {
+    "frame_id": 6,
+    "timestamp_ms": 3000,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "2",
+        "confidence": 91.0
+      },
+      {
+        "text": "/",
+        "confidence": 91.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "SELECTED",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "20",
+        "confidence": 96.0
+      },
+      {
+        "text": "percent",
+        "confidence": 96.0
+      },
+      {
+        "text": "tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "selected",
+        "confidence": 96.0
+      },
+      {
+        "text": "Ready",
+        "confidence": 96.0
+      },
+      {
+        "text": "to",
+        "confidence": 96.0
+      },
+      {
+        "text": "calculate",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 2 / TIP SELECTED Tip Calculator Split every bill clearly 100 20 percent tip selected Ready to calculate"
+  },
+  {
+    "frame_id": 7,
+    "timestamp_ms": 3500,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "2",
+        "confidence": 90.0
+      },
+      {
+        "text": "/",
+        "confidence": 90.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "SELECTED",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "20",
+        "confidence": 96.0
+      },
+      {
+        "text": "percent",
+        "confidence": 96.0
+      },
+      {
+        "text": "tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "selected",
+        "confidence": 95.0
+      },
+      {
+        "text": "Ready",
+        "confidence": 96.0
+      },
+      {
+        "text": "to",
+        "confidence": 96.0
+      },
+      {
+        "text": "calculate",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 2 / TIP SELECTED Tip Calculator Split every bill clearly 100 20 percent tip selected Ready to calculate"
+  },
+  {
+    "frame_id": 8,
+    "timestamp_ms": 4000,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "3",
+        "confidence": 91.0
+      },
+      {
+        "text": "/",
+        "confidence": 91.0
+      },
+      {
+        "text": "LOADING",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "Processing...",
+        "confidence": 96.0
+      },
+      {
+        "text": "result",
+        "confidence": 93.0
+      },
+      {
+        "text": "pending",
+        "confidence": 96.0
+      },
+      {
+        "text": "Please",
+        "confidence": 96.0
+      },
+      {
+        "text": "wait",
+        "confidence": 94.0
+      },
+      {
+        "text": "for",
+        "confidence": 94.0
+      },
+      {
+        "text": "result",
+        "confidence": 94.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 3 / LOADING Tip Calculator Split every bill clearly 100 Processing... result pending Please wait for result"
+  },
+  {
+    "frame_id": 9,
+    "timestamp_ms": 4500,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "3",
+        "confidence": 91.0
+      },
+      {
+        "text": "/",
+        "confidence": 91.0
+      },
+      {
+        "text": "LOADING",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "Processing...",
+        "confidence": 96.0
+      },
+      {
+        "text": "result",
+        "confidence": 95.0
+      },
+      {
+        "text": "pending",
+        "confidence": 96.0
+      },
+      {
+        "text": "Please",
+        "confidence": 96.0
+      },
+      {
+        "text": "wait",
+        "confidence": 96.0
+      },
+      {
+        "text": "for",
+        "confidence": 96.0
+      },
+      {
+        "text": "result",
+        "confidence": 94.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 3 / LOADING Tip Calculator Split every bill clearly 100 Processing... result pending Please wait for result"
+  },
+  {
+    "frame_id": 10,
+    "timestamp_ms": 5000,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "3",
+        "confidence": 91.0
+      },
+      {
+        "text": "/",
+        "confidence": 91.0
+      },
+      {
+        "text": "LOADING",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "Processing...",
+        "confidence": 96.0
+      },
+      {
+        "text": "result",
+        "confidence": 95.0
+      },
+      {
+        "text": "pending",
+        "confidence": 96.0
+      },
+      {
+        "text": "Please",
+        "confidence": 96.0
+      },
+      {
+        "text": "wait",
+        "confidence": 96.0
+      },
+      {
+        "text": "for",
+        "confidence": 96.0
+      },
+      {
+        "text": "result",
+        "confidence": 95.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 3 / LOADING Tip Calculator Split every bill clearly 100 Processing... result pending Please wait for result"
+  },
+  {
+    "frame_id": 11,
+    "timestamp_ms": 5500,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "3",
+        "confidence": 91.0
+      },
+      {
+        "text": "/",
+        "confidence": 91.0
+      },
+      {
+        "text": "LOADING",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "Processing...",
+        "confidence": 96.0
+      },
+      {
+        "text": "result",
+        "confidence": 94.0
+      },
+      {
+        "text": "pending",
+        "confidence": 96.0
+      },
+      {
+        "text": "Please",
+        "confidence": 96.0
+      },
+      {
+        "text": "wait",
+        "confidence": 96.0
+      },
+      {
+        "text": "for",
+        "confidence": 96.0
+      },
+      {
+        "text": "result",
+        "confidence": 95.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 3 / LOADING Tip Calculator Split every bill clearly 100 Processing... result pending Please wait for result"
+  },
+  {
+    "frame_id": 12,
+    "timestamp_ms": 6000,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "4",
+        "confidence": 89.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "TOTAL",
+        "confidence": 95.0
+      },
+      {
+        "text": "RESULT",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "TOTAL:",
+        "confidence": 96.0
+      },
+      {
+        "text": "$120.00",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculation",
+        "confidence": 95.0
+      },
+      {
+        "text": "complete",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 4 / TOTAL RESULT Tip Calculator Split every bill clearly 100 TOTAL: $120.00 Calculation complete"
+  },
+  {
+    "frame_id": 13,
+    "timestamp_ms": 6500,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "4",
+        "confidence": 89.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "TOTAL",
+        "confidence": 96.0
+      },
+      {
+        "text": "RESULT",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "TOTAL:",
+        "confidence": 96.0
+      },
+      {
+        "text": "$120.00",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculation",
+        "confidence": 95.0
+      },
+      {
+        "text": "complete",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 4 / TOTAL RESULT Tip Calculator Split every bill clearly 100 TOTAL: $120.00 Calculation complete"
+  },
+  {
+    "frame_id": 14,
+    "timestamp_ms": 7000,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "4",
+        "confidence": 89.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "TOTAL",
+        "confidence": 96.0
+      },
+      {
+        "text": "RESULT",
+        "confidence": 96.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "TOTAL:",
+        "confidence": 96.0
+      },
+      {
+        "text": "$120.00",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculation",
+        "confidence": 95.0
+      },
+      {
+        "text": "complete",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 4 / TOTAL RESULT Tip Calculator Split every bill clearly 100 TOTAL: $120.00 Calculation complete"
+  },
+  {
+    "frame_id": 15,
+    "timestamp_ms": 7500,
+    "tokens": [
+      {
+        "text": "TIPMATE",
+        "confidence": 92.0
+      },
+      {
+        "text": "/",
+        "confidence": 93.0
+      },
+      {
+        "text": "TIP",
+        "confidence": 96.0
+      },
+      {
+        "text": "ESTIMATOR",
+        "confidence": 96.0
+      },
+      {
+        "text": "STAGE",
+        "confidence": 96.0
+      },
+      {
+        "text": "4",
+        "confidence": 90.0
+      },
+      {
+        "text": "/",
+        "confidence": 92.0
+      },
+      {
+        "text": "TOTAL",
+        "confidence": 95.0
+      },
+      {
+        "text": "RESULT",
+        "confidence": 95.0
+      },
+      {
+        "text": "Tip",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculator",
+        "confidence": 96.0
+      },
+      {
+        "text": "Split",
+        "confidence": 96.0
+      },
+      {
+        "text": "every",
+        "confidence": 94.0
+      },
+      {
+        "text": "bill",
+        "confidence": 94.0
+      },
+      {
+        "text": "clearly",
+        "confidence": 96.0
+      },
+      {
+        "text": "100",
+        "confidence": 95.0
+      },
+      {
+        "text": "TOTAL:",
+        "confidence": 96.0
+      },
+      {
+        "text": "$120.00",
+        "confidence": 96.0
+      },
+      {
+        "text": "Calculation",
+        "confidence": 96.0
+      },
+      {
+        "text": "complete",
+        "confidence": 96.0
+      }
+    ],
+    "text": "TIPMATE / TIP ESTIMATOR STAGE 4 / TOTAL RESULT Tip Calculator Split every bill clearly 100 TOTAL: $120.00 Calculation complete"
+  }
+]

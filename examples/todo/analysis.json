@@ -1,0 +1,131 @@
+{
+  "app_summary": "Offline OCR evidence preview only; app purpose and interactions are not independently established.",
+  "workflow_steps": [
+    {
+      "order": 1,
+      "action": "Screen text changed to: DAYMARK / MOBILE TASKS STAGE 1 / TASK LIST Daily Tasks Make today feel manageable New task No tasks yet Plan the day",
+      "start_ms": 0,
+      "end_ms": 2000,
+      "evidence_frames": [
+        0
+      ]
+    },
+    {
+      "order": 2,
+      "action": "Screen text changed to: DAYMARK / MOBILE TASKS STAGE 2 / TASK ADDED. Daily Tasks Make today feel manageable Buy milk Buy milk / active Task added successfully",
+      "start_ms": 2000,
+      "end_ms": 4000,
+      "evidence_frames": [
+        4
+      ]
+    },
+    {
+      "order": 3,
+      "action": "Screen text changed to: DAYMARK / MOBILE TASKS STAGE 3 / TASK COMPLETE Daily Tasks Make today feel manageable Buy milk Buy milk / completed Completed successfully",
+      "start_ms": 4000,
+      "end_ms": 6000,
+      "evidence_frames": [
+        8
+      ]
+    },
+    {
+      "order": 4,
+      "action": "Screen text changed to: DAYMARK / MOBILE TASKS STAGE 4 / COMPLETED FILTER Daily Tasks Make today feel manageable Buy milk Completed: Buy milk Completed filter activ",
+      "start_ms": 6000,
+      "end_ms": 7500,
+      "evidence_frames": [
+        12
+      ]
+    }
+  ],
+  "segments": [
+    {
+      "title": "OCR state 1",
+      "start_ms": 0,
+      "end_ms": 2000,
+      "evidence_frames": [
+        0
+      ]
+    },
+    {
+      "title": "OCR state 2",
+      "start_ms": 2000,
+      "end_ms": 4000,
+      "evidence_frames": [
+        4
+      ]
+    },
+    {
+      "title": "OCR state 3",
+      "start_ms": 4000,
+      "end_ms": 6000,
+      "evidence_frames": [
+        8
+      ]
+    },
+    {
+      "title": "OCR state 4",
+      "start_ms": 6000,
+      "end_ms": 7500,
+      "evidence_frames": [
+        12
+      ]
+    }
+  ],
+  "marketing_moments": [
+    {
+      "hook": "Potential visual highlight: DAYMARK / MOBILE TASKS STAGE 2 / TASK ADDED. Daily Tasks Make today feel manageable Buy mi",
+      "timestamp_ms": 2000,
+      "evidence_frames": [
+        4
+      ],
+      "rationale_kind": "inferred"
+    },
+    {
+      "hook": "Potential visual highlight: DAYMARK / MOBILE TASKS STAGE 3 / TASK COMPLETE Daily Tasks Make today feel manageable Buy ",
+      "timestamp_ms": 4000,
+      "evidence_frames": [
+        8
+      ],
+      "rationale_kind": "inferred"
+    },
+    {
+      "hook": "Potential visual highlight: DAYMARK / MOBILE TASKS STAGE 4 / COMPLETED FILTER Daily Tasks Make today feel manageable B",
+      "timestamp_ms": 6000,
+      "evidence_frames": [
+        12
+      ],
+      "rationale_kind": "inferred"
+    }
+  ],
+  "findings": [
+    {
+      "kind": "observed",
+      "text": "Visible OCR text: DAYMARK / MOBILE TASKS STAGE 1 / TASK LIST Daily Tasks Make today feel manageable New task No tasks yet Plan the day",
+      "evidence_frames": [
+        0
+      ]
+    },
+    {
+      "kind": "observed",
+      "text": "Visible OCR text: DAYMARK / MOBILE TASKS STAGE 2 / TASK ADDED. Daily Tasks Make today feel manageable Buy milk Buy milk / active Task added successfully",
+      "evidence_frames": [
+        4
+      ]
+    },
+    {
+      "kind": "observed",
+      "text": "Visible OCR text: DAYMARK / MOBILE TASKS STAGE 3 / TASK COMPLETE Daily Tasks Make today feel manageable Buy milk Buy milk / completed Completed successfully",
+      "evidence_frames": [
+        8
+      ]
+    },
+    {
+      "kind": "observed",
+      "text": "Visible OCR text: DAYMARK / MOBILE TASKS STAGE 4 / COMPLETED FILTER Daily Tasks Make today feel manageable Buy milk Completed: Buy milk Completed filter active",
+      "evidence_frames": [
+        12
+      ]
+    }
+  ]
+}
